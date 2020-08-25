@@ -1,3 +1,10 @@
+# [1.1.0](https://git3.nexdev.net/sc-packages/sc-semantic-release/compare/v1.0.1...v1.1.0) (2020-08-25)
+
+
+### Features
+
+* add hotfix branch name ([40e3fae](https://git3.nexdev.net/sc-packages/sc-semantic-release/commit/40e3fae6218d3ef29cd0d9697ae02a7780a21a4e))
+
 ## [1.0.1](https://git3.nexdev.net/sc-packages/sc-semantic-release/compare/v1.0.0...v1.0.1) (2020-08-25)
 
 
