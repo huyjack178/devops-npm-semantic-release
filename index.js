@@ -42,5 +42,9 @@ module.exports = {
       name: 'dev-*',
       prerelease: true,
     },
+    {
+      name: 'hotfix-*',
+      prerelease: true,
+    },
   ],
 };
