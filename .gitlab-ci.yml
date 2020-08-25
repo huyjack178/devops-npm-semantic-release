@@ -1,0 +1,11 @@
+stages:
+  - test
+  - publish
+
+include:
+  - project: 'lumi-ops/ci-scripts'
+    ref: master
+    file: 'sonarqube.gitlab-ci.yml'
+  - project: 'lumi-ops/ci-scripts'
+    ref: master
+    file: 'publish-npm.gitlab-ci.yml'
