@@ -1,3 +1,10 @@
+# [1.2.0](https://git3.nexdev.net/sc-packages/sc-semantic-release/compare/v1.1.0...v1.2.0) (2020-08-26)
+
+
+### Features
+
+* add branch name ([32a5f09](https://git3.nexdev.net/sc-packages/sc-semantic-release/commit/32a5f090ba064fb41ee23eebd0c0c841bc1c03d0))
+
 # [1.1.0](https://git3.nexdev.net/sc-packages/sc-semantic-release/compare/v1.0.1...v1.1.0) (2020-08-25)
 
 
