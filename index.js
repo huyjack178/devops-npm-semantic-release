@@ -46,5 +46,9 @@ module.exports = {
       name: 'hotfix-*',
       prerelease: true,
     },
+    {
+      name: 'publish-*',
+      prerelease: true,
+    },
   ],
 };
